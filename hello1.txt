@@ -1,1 +1,3 @@
 hiii
+welcome to git and github
+this is practice of pull and push command.
